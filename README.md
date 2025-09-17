@@ -1,4 +1,4 @@
-#my_project
+# Study App
 
 Summary
 
