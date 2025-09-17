@@ -1,3 +1,5 @@
+#my_project
+
 Summary
 
 SmartStudy AI is an application that uses artificial intelligence to help students organize their study time. It prioritizes subjects and generates a daily schedule based on available time and subject difficulty.
