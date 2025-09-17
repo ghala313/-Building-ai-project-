@@ -1,4 +1,4 @@
-#my_project
+#Study_project
 
 Summary
 
